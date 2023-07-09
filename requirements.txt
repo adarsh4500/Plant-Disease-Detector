@@ -1,0 +1,5 @@
+Flask
+numpy
+Keras
+tensorflow == 2.9.0
+werkzeug
